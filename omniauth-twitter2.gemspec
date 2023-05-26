@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description = "Twitter OAuth2 strategy for OmniAuth. '2' means OAuth 2.0."
   spec.homepage = "https://github.com/unasuke/omniauth-twitter2"
   spec.license = "Apache-2.0"
-  spec.required_ruby_version = ">= 2.6.0"
+  spec.required_ruby_version = ">= 2.4.2"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = spec.homepage
